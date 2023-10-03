@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: bar
+  labels:
+    environment-id: env_89b010c2-615a-4f65-961e-22ad6528780c
+    project-id: project_a28e3ce8-d65e-4199-8c44-7ac67b4bd6bf
+    project-name: fatjoe1
+    environment-name: prod
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900

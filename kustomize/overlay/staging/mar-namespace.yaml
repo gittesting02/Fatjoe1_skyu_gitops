@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: mar
+  labels:
+    environment-id: env_80977e74-8bef-4e95-bc6d-7b8869a3963c
+    project-id: project_a28e3ce8-d65e-4199-8c44-7ac67b4bd6bf
+    project-name: fatjoe1
+    environment-name: staging
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
